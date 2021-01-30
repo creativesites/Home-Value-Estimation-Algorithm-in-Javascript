@@ -1,0 +1,773 @@
+[
+	{
+		"Date": "Jan 2005",
+		"Apartment_HPI_SA": "100"
+	},
+	{
+		"Date": "Feb 2005",
+		"Apartment_HPI_SA": "101.9"
+	},
+	{
+		"Date": "Mar 2005",
+		"Apartment_HPI_SA": "103.6"
+	},
+	{
+		"Date": "Apr 2005",
+		"Apartment_HPI_SA": "101.6"
+	},
+	{
+		"Date": "May 2005",
+		"Apartment_HPI_SA": "106.8"
+	},
+	{
+		"Date": "Jun 2005",
+		"Apartment_HPI_SA": "102.6"
+	},
+	{
+		"Date": "Jul 2005",
+		"Apartment_HPI_SA": "105.7"
+	},
+	{
+		"Date": "Aug 2005",
+		"Apartment_HPI_SA": "103.2"
+	},
+	{
+		"Date": "Sep 2005",
+		"Apartment_HPI_SA": "101.6"
+	},
+	{
+		"Date": "Oct 2005",
+		"Apartment_HPI_SA": "103.7"
+	},
+	{
+		"Date": "Nov 2005",
+		"Apartment_HPI_SA": "109.2"
+	},
+	{
+		"Date": "Dec 2005",
+		"Apartment_HPI_SA": "104.8"
+	},
+	{
+		"Date": "Jan 2006",
+		"Apartment_HPI_SA": "102.9"
+	},
+	{
+		"Date": "Feb 2006",
+		"Apartment_HPI_SA": "103.9"
+	},
+	{
+		"Date": "Mar 2006",
+		"Apartment_HPI_SA": "104.2"
+	},
+	{
+		"Date": "Apr 2006",
+		"Apartment_HPI_SA": "106.2"
+	},
+	{
+		"Date": "May 2006",
+		"Apartment_HPI_SA": "107.3"
+	},
+	{
+		"Date": "Jun 2006",
+		"Apartment_HPI_SA": "105.1"
+	},
+	{
+		"Date": "Jul 2006",
+		"Apartment_HPI_SA": "103.8"
+	},
+	{
+		"Date": "Aug 2006",
+		"Apartment_HPI_SA": "107.2"
+	},
+	{
+		"Date": "Sep 2006",
+		"Apartment_HPI_SA": "109"
+	},
+	{
+		"Date": "Oct 2006",
+		"Apartment_HPI_SA": "104.7"
+	},
+	{
+		"Date": "Nov 2006",
+		"Apartment_HPI_SA": "103.3"
+	},
+	{
+		"Date": "Dec 2006",
+		"Apartment_HPI_SA": "109.1"
+	},
+	{
+		"Date": "Jan 2007",
+		"Apartment_HPI_SA": "103.5"
+	},
+	{
+		"Date": "Feb 2007",
+		"Apartment_HPI_SA": "107.2"
+	},
+	{
+		"Date": "Mar 2007",
+		"Apartment_HPI_SA": "109.2"
+	},
+	{
+		"Date": "Apr 2007",
+		"Apartment_HPI_SA": "106.7"
+	},
+	{
+		"Date": "May 2007",
+		"Apartment_HPI_SA": "112"
+	},
+	{
+		"Date": "Jun 2007",
+		"Apartment_HPI_SA": "112.4"
+	},
+	{
+		"Date": "Jul 2007",
+		"Apartment_HPI_SA": "113.2"
+	},
+	{
+		"Date": "Aug 2007",
+		"Apartment_HPI_SA": "108.9"
+	},
+	{
+		"Date": "Sep 2007",
+		"Apartment_HPI_SA": "115.7"
+	},
+	{
+		"Date": "Oct 2007",
+		"Apartment_HPI_SA": "112.2"
+	},
+	{
+		"Date": "Nov 2007",
+		"Apartment_HPI_SA": "111.9"
+	},
+	{
+		"Date": "Dec 2007",
+		"Apartment_HPI_SA": "111.1"
+	},
+	{
+		"Date": "Jan 2008",
+		"Apartment_HPI_SA": "113"
+	},
+	{
+		"Date": "Feb 2008",
+		"Apartment_HPI_SA": "116.5"
+	},
+	{
+		"Date": "Mar 2008",
+		"Apartment_HPI_SA": "113.4"
+	},
+	{
+		"Date": "Apr 2008",
+		"Apartment_HPI_SA": "117.1"
+	},
+	{
+		"Date": "May 2008",
+		"Apartment_HPI_SA": "115.9"
+	},
+	{
+		"Date": "Jun 2008",
+		"Apartment_HPI_SA": "118.6"
+	},
+	{
+		"Date": "Jul 2008",
+		"Apartment_HPI_SA": "118.2"
+	},
+	{
+		"Date": "Aug 2008",
+		"Apartment_HPI_SA": "114.7"
+	},
+	{
+		"Date": "Sep 2008",
+		"Apartment_HPI_SA": "115.2"
+	},
+	{
+		"Date": "Oct 2008",
+		"Apartment_HPI_SA": "117"
+	},
+	{
+		"Date": "Nov 2008",
+		"Apartment_HPI_SA": "112.8"
+	},
+	{
+		"Date": "Dec 2008",
+		"Apartment_HPI_SA": "108.6"
+	},
+	{
+		"Date": "Jan 2009",
+		"Apartment_HPI_SA": "113.9"
+	},
+	{
+		"Date": "Feb 2009",
+		"Apartment_HPI_SA": "118.9"
+	},
+	{
+		"Date": "Mar 2009",
+		"Apartment_HPI_SA": "112.1"
+	},
+	{
+		"Date": "Apr 2009",
+		"Apartment_HPI_SA": "109.1"
+	},
+	{
+		"Date": "May 2009",
+		"Apartment_HPI_SA": "115.5"
+	},
+	{
+		"Date": "Jun 2009",
+		"Apartment_HPI_SA": "118.3"
+	},
+	{
+		"Date": "Jul 2009",
+		"Apartment_HPI_SA": "117.5"
+	},
+	{
+		"Date": "Aug 2009",
+		"Apartment_HPI_SA": "121.3"
+	},
+	{
+		"Date": "Sep 2009",
+		"Apartment_HPI_SA": "121.9"
+	},
+	{
+		"Date": "Oct 2009",
+		"Apartment_HPI_SA": "121"
+	},
+	{
+		"Date": "Nov 2009",
+		"Apartment_HPI_SA": "123.2"
+	},
+	{
+		"Date": "Dec 2009",
+		"Apartment_HPI_SA": "123.7"
+	},
+	{
+		"Date": "Jan 2010",
+		"Apartment_HPI_SA": "127.5"
+	},
+	{
+		"Date": "Feb 2010",
+		"Apartment_HPI_SA": "126.9"
+	},
+	{
+		"Date": "Mar 2010",
+		"Apartment_HPI_SA": "128.7"
+	},
+	{
+		"Date": "Apr 2010",
+		"Apartment_HPI_SA": "126.7"
+	},
+	{
+		"Date": "May 2010",
+		"Apartment_HPI_SA": "126.6"
+	},
+	{
+		"Date": "Jun 2010",
+		"Apartment_HPI_SA": "124.3"
+	},
+	{
+		"Date": "Jul 2010",
+		"Apartment_HPI_SA": "126.7"
+	},
+	{
+		"Date": "Aug 2010",
+		"Apartment_HPI_SA": "128.3"
+	},
+	{
+		"Date": "Sep 2010",
+		"Apartment_HPI_SA": "122.8"
+	},
+	{
+		"Date": "Oct 2010",
+		"Apartment_HPI_SA": "121.9"
+	},
+	{
+		"Date": "Nov 2010",
+		"Apartment_HPI_SA": "127.9"
+	},
+	{
+		"Date": "Dec 2010",
+		"Apartment_HPI_SA": "129.4"
+	},
+	{
+		"Date": "Jan 2011",
+		"Apartment_HPI_SA": "124.9"
+	},
+	{
+		"Date": "Feb 2011",
+		"Apartment_HPI_SA": "131.2"
+	},
+	{
+		"Date": "Mar 2011",
+		"Apartment_HPI_SA": "132.1"
+	},
+	{
+		"Date": "Apr 2011",
+		"Apartment_HPI_SA": "131.7"
+	},
+	{
+		"Date": "May 2011",
+		"Apartment_HPI_SA": "137.6"
+	},
+	{
+		"Date": "Jun 2011",
+		"Apartment_HPI_SA": "139"
+	},
+	{
+		"Date": "Jul 2011",
+		"Apartment_HPI_SA": "136.1"
+	},
+	{
+		"Date": "Aug 2011",
+		"Apartment_HPI_SA": "138.3"
+	},
+	{
+		"Date": "Sep 2011",
+		"Apartment_HPI_SA": "134.6"
+	},
+	{
+		"Date": "Oct 2011",
+		"Apartment_HPI_SA": "137.7"
+	},
+	{
+		"Date": "Nov 2011",
+		"Apartment_HPI_SA": "144.3"
+	},
+	{
+		"Date": "Dec 2011",
+		"Apartment_HPI_SA": "130.2"
+	},
+	{
+		"Date": "Jan 2012",
+		"Apartment_HPI_SA": "143.1"
+	},
+	{
+		"Date": "Feb 2012",
+		"Apartment_HPI_SA": "140"
+	},
+	{
+		"Date": "Mar 2012",
+		"Apartment_HPI_SA": "142.1"
+	},
+	{
+		"Date": "Apr 2012",
+		"Apartment_HPI_SA": "141.6"
+	},
+	{
+		"Date": "May 2012",
+		"Apartment_HPI_SA": "143.4"
+	},
+	{
+		"Date": "Jun 2012",
+		"Apartment_HPI_SA": "142.7"
+	},
+	{
+		"Date": "Jul 2012",
+		"Apartment_HPI_SA": "135.7"
+	},
+	{
+		"Date": "Aug 2012",
+		"Apartment_HPI_SA": "142.5"
+	},
+	{
+		"Date": "Sep 2012",
+		"Apartment_HPI_SA": "145.1"
+	},
+	{
+		"Date": "Oct 2012",
+		"Apartment_HPI_SA": "138.5"
+	},
+	{
+		"Date": "Nov 2012",
+		"Apartment_HPI_SA": "139.6"
+	},
+	{
+		"Date": "Dec 2012",
+		"Apartment_HPI_SA": "132.6"
+	},
+	{
+		"Date": "Jan 2013",
+		"Apartment_HPI_SA": "140"
+	},
+	{
+		"Date": "Feb 2013",
+		"Apartment_HPI_SA": "147.7"
+	},
+	{
+		"Date": "Mar 2013",
+		"Apartment_HPI_SA": "147.1"
+	},
+	{
+		"Date": "Apr 2013",
+		"Apartment_HPI_SA": "147.1"
+	},
+	{
+		"Date": "May 2013",
+		"Apartment_HPI_SA": "149.2"
+	},
+	{
+		"Date": "Jun 2013",
+		"Apartment_HPI_SA": "146.7"
+	},
+	{
+		"Date": "Jul 2013",
+		"Apartment_HPI_SA": "138.8"
+	},
+	{
+		"Date": "Aug 2013",
+		"Apartment_HPI_SA": "144.5"
+	},
+	{
+		"Date": "Sep 2013",
+		"Apartment_HPI_SA": "142.7"
+	},
+	{
+		"Date": "Oct 2013",
+		"Apartment_HPI_SA": "147.6"
+	},
+	{
+		"Date": "Nov 2013",
+		"Apartment_HPI_SA": "144.9"
+	},
+	{
+		"Date": "Dec 2013",
+		"Apartment_HPI_SA": "148.6"
+	},
+	{
+		"Date": "Jan 2014",
+		"Apartment_HPI_SA": "145.2"
+	},
+	{
+		"Date": "Feb 2014",
+		"Apartment_HPI_SA": "145"
+	},
+	{
+		"Date": "Mar 2014",
+		"Apartment_HPI_SA": "147.3"
+	},
+	{
+		"Date": "Apr 2014",
+		"Apartment_HPI_SA": "147.1"
+	},
+	{
+		"Date": "May 2014",
+		"Apartment_HPI_SA": "145.5"
+	},
+	{
+		"Date": "Jun 2014",
+		"Apartment_HPI_SA": "145.3"
+	},
+	{
+		"Date": "Jul 2014",
+		"Apartment_HPI_SA": "148.9"
+	},
+	{
+		"Date": "Aug 2014",
+		"Apartment_HPI_SA": "148.1"
+	},
+	{
+		"Date": "Sep 2014",
+		"Apartment_HPI_SA": "144.9"
+	},
+	{
+		"Date": "Oct 2014",
+		"Apartment_HPI_SA": "150.8"
+	},
+	{
+		"Date": "Nov 2014",
+		"Apartment_HPI_SA": "149.5"
+	},
+	{
+		"Date": "Dec 2014",
+		"Apartment_HPI_SA": "139.4"
+	},
+	{
+		"Date": "Jan 2015",
+		"Apartment_HPI_SA": "140.2"
+	},
+	{
+		"Date": "Feb 2015",
+		"Apartment_HPI_SA": "152"
+	},
+	{
+		"Date": "Mar 2015",
+		"Apartment_HPI_SA": "152.9"
+	},
+	{
+		"Date": "Apr 2015",
+		"Apartment_HPI_SA": "153.2"
+	},
+	{
+		"Date": "May 2015",
+		"Apartment_HPI_SA": "150.5"
+	},
+	{
+		"Date": "Jun 2015",
+		"Apartment_HPI_SA": "158.1"
+	},
+	{
+		"Date": "Jul 2015",
+		"Apartment_HPI_SA": "161.8"
+	},
+	{
+		"Date": "Aug 2015",
+		"Apartment_HPI_SA": "155.1"
+	},
+	{
+		"Date": "Sep 2015",
+		"Apartment_HPI_SA": "155.7"
+	},
+	{
+		"Date": "Oct 2015",
+		"Apartment_HPI_SA": "154.7"
+	},
+	{
+		"Date": "Nov 2015",
+		"Apartment_HPI_SA": "160.5"
+	},
+	{
+		"Date": "Dec 2015",
+		"Apartment_HPI_SA": "164.8"
+	},
+	{
+		"Date": "Jan 2016",
+		"Apartment_HPI_SA": "154.4"
+	},
+	{
+		"Date": "Feb 2016",
+		"Apartment_HPI_SA": "166.2"
+	},
+	{
+		"Date": "Mar 2016",
+		"Apartment_HPI_SA": "166.1"
+	},
+	{
+		"Date": "Apr 2016",
+		"Apartment_HPI_SA": "165.4"
+	},
+	{
+		"Date": "May 2016",
+		"Apartment_HPI_SA": "171"
+	},
+	{
+		"Date": "Jun 2016",
+		"Apartment_HPI_SA": "171.1"
+	},
+	{
+		"Date": "Jul 2016",
+		"Apartment_HPI_SA": "169.1"
+	},
+	{
+		"Date": "Aug 2016",
+		"Apartment_HPI_SA": "176.9"
+	},
+	{
+		"Date": "Sep 2016",
+		"Apartment_HPI_SA": "184.4"
+	},
+	{
+		"Date": "Oct 2016",
+		"Apartment_HPI_SA": "188.6"
+	},
+	{
+		"Date": "Nov 2016",
+		"Apartment_HPI_SA": "184.4"
+	},
+	{
+		"Date": "Dec 2016",
+		"Apartment_HPI_SA": "186.3"
+	},
+	{
+		"Date": "Jan 2017",
+		"Apartment_HPI_SA": "192.3"
+	},
+	{
+		"Date": "Feb 2017",
+		"Apartment_HPI_SA": "201.1"
+	},
+	{
+		"Date": "Mar 2017",
+		"Apartment_HPI_SA": "229"
+	},
+	{
+		"Date": "Apr 2017",
+		"Apartment_HPI_SA": "231"
+	},
+	{
+		"Date": "May 2017",
+		"Apartment_HPI_SA": "227.7"
+	},
+	{
+		"Date": "Jun 2017",
+		"Apartment_HPI_SA": "221.4"
+	},
+	{
+		"Date": "Jul 2017",
+		"Apartment_HPI_SA": "225.3"
+	},
+	{
+		"Date": "Aug 2017",
+		"Apartment_HPI_SA": "211.9"
+	},
+	{
+		"Date": "Sep 2017",
+		"Apartment_HPI_SA": "222.4"
+	},
+	{
+		"Date": "Oct 2017",
+		"Apartment_HPI_SA": "222.9"
+	},
+	{
+		"Date": "Nov 2017",
+		"Apartment_HPI_SA": "226"
+	},
+	{
+		"Date": "Dec 2017",
+		"Apartment_HPI_SA": "221.7"
+	},
+	{
+		"Date": "Jan 2018",
+		"Apartment_HPI_SA": "233.8"
+	},
+	{
+		"Date": "Feb 2018",
+		"Apartment_HPI_SA": "233.9"
+	},
+	{
+		"Date": "Mar 2018",
+		"Apartment_HPI_SA": "229.2"
+	},
+	{
+		"Date": "Apr 2018",
+		"Apartment_HPI_SA": "226.3"
+	},
+	{
+		"Date": "May 2018",
+		"Apartment_HPI_SA": "251.1"
+	},
+	{
+		"Date": "Jun 2018",
+		"Apartment_HPI_SA": "255.5"
+	},
+	{
+		"Date": "Jul 2018",
+		"Apartment_HPI_SA": "241.3"
+	},
+	{
+		"Date": "Aug 2018",
+		"Apartment_HPI_SA": "245.8"
+	},
+	{
+		"Date": "Sep 2018",
+		"Apartment_HPI_SA": "247.3"
+	},
+	{
+		"Date": "Oct 2018",
+		"Apartment_HPI_SA": "246.4"
+	},
+	{
+		"Date": "Nov 2018",
+		"Apartment_HPI_SA": "259.1"
+	},
+	{
+		"Date": "Dec 2018",
+		"Apartment_HPI_SA": "258"
+	},
+	{
+		"Date": "Jan 2019",
+		"Apartment_HPI_SA": "246.9"
+	},
+	{
+		"Date": "Feb 2019",
+		"Apartment_HPI_SA": "268.2"
+	},
+	{
+		"Date": "Mar 2019",
+		"Apartment_HPI_SA": "268.9"
+	},
+	{
+		"Date": "Apr 2019",
+		"Apartment_HPI_SA": "268.4"
+	},
+	{
+		"Date": "May 2019",
+		"Apartment_HPI_SA": "278"
+	},
+	{
+		"Date": "Jun 2019",
+		"Apartment_HPI_SA": "264.9"
+	},
+	{
+		"Date": "Jul 2019",
+		"Apartment_HPI_SA": "273.7"
+	},
+	{
+		"Date": "Aug 2019",
+		"Apartment_HPI_SA": "285.1"
+	},
+	{
+		"Date": "Sep 2019",
+		"Apartment_HPI_SA": "287.3"
+	},
+	{
+		"Date": "Oct 2019",
+		"Apartment_HPI_SA": "279.5"
+	},
+	{
+		"Date": "Nov 2019",
+		"Apartment_HPI_SA": "284.2"
+	},
+	{
+		"Date": "Dec 2019",
+		"Apartment_HPI_SA": "290"
+	},
+	{
+		"Date": "Jan 2020",
+		"Apartment_HPI_SA": "316.1"
+	},
+	{
+		"Date": "Feb 2020",
+		"Apartment_HPI_SA": "296.4"
+	},
+	{
+		"Date": "Mar 2020",
+		"Apartment_HPI_SA": "318.6"
+	},
+	{
+		"Date": "Apr 2020",
+		"Apartment_HPI_SA": "283.7"
+	},
+	{
+		"Date": "May 2020",
+		"Apartment_HPI_SA": "297"
+	},
+	{
+		"Date": "Jun 2020",
+		"Apartment_HPI_SA": "293.2"
+	},
+	{
+		"Date": "Jul 2020",
+		"Apartment_HPI_SA": "306"
+	},
+	{
+		"Date": "Aug 2020",
+		"Apartment_HPI_SA": "292.5"
+	},
+	{
+		"Date": "Sep 2020",
+		"Apartment_HPI_SA": "300.3"
+	},
+	{
+		"Date": "Oct 2020",
+		"Apartment_HPI_SA": "316.2"
+	},
+	{
+		"Date": "Nov 2020",
+		"Apartment_HPI_SA": "314.2"
+	},
+	{
+		"Date": "Dec 2020",
+		"Apartment_HPI_SA": "311.7"
+	},
+	{
+		"Date": ""
+	}
+]

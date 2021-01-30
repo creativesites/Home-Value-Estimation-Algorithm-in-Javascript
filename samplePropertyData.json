@@ -1,0 +1,262 @@
+{
+    mlsNumber: 'W5092840',
+    status: 'U',
+    class: 'ResidentialProperty',
+    type: 'Sale',
+    listPrice: '849000.00',
+    listDate: '2021-01-24T00:00:00.000Z',
+    lastStatus: 'Sld',
+    soldPrice: '930000.00',
+    soldDate: '2021-01-25T00:00:00.000Z',
+    address: {
+      area: 'Peel',
+      city: 'Mississauga',
+      country: null,
+      district: 'Mississauga',
+      majorIntersection: 'Eglinton/Creditview',
+      neighborhood: 'East Credit',
+      streetDirection: '',
+      streetName: 'Princelea',
+      streetNumber: '1808',
+      streetSuffix: 'Pl',
+      unitNumber: '',
+      zip: 'L5M3R8',
+      state: 'Ontario'
+    },
+    map: { latitude: '43.576910', longitude: '-79.688135' },
+    permissions: { displayAddressOnInternet: 'Y', displayPublic: 'N' },
+    images: [
+      'IMG-W5092840_1.jpg',  'IMG-W5092840_2.jpg',
+      'IMG-W5092840_3.jpg',  'IMG-W5092840_4.jpg',
+      'IMG-W5092840_5.jpg',  'IMG-W5092840_6.jpg',
+      'IMG-W5092840_7.jpg',  'IMG-W5092840_8.jpg',
+      'IMG-W5092840_9.jpg',  'IMG-W5092840_10.jpg',
+      'IMG-W5092840_11.jpg', 'IMG-W5092840_12.jpg',
+      'IMG-W5092840_13.jpg', 'IMG-W5092840_14.jpg',
+      'IMG-W5092840_15.jpg', 'IMG-W5092840_16.jpg',
+      'IMG-W5092840_17.jpg', 'IMG-W5092840_18.jpg',
+      'IMG-W5092840_19.jpg', 'IMG-W5092840_20.jpg',
+      'IMG-W5092840_21.jpg'
+    ],
+    details: {
+      airConditioning: 'Central Air',
+      basement1: 'Finished',
+      basement2: '',
+      centralVac: 'Y',
+      den: 'N',
+      description: 'Run To Your Phone! Why Buy A Semi Or Townhouse If You Could Own This Beautiful Detached Home With Huge Premium Backyard!
+  127.65 Feet Deep Lot!  **** Fully Renovated Home, High Demand Location!  Modern Kitchen With Newer S/S Appliances. Hardwood Floor Thru-Out
+  On Main Floor, Laminate On 2nd Floor & Basement. Renovated Washrooms, New Roof 2018, Newer Vinyl Windows, Front, Side Doors, Interlocking Walkway, Large Deck. Finished Basement With Rec Rm & Office Area',
+      elevator: '',
+      exteriorConstruction1: 'Brick',
+      exteriorConstruction2: 'Vinyl Siding',
+      extras: 'Child Safe Court, Great Family Oriented Location.  B/I Dishwasher, Fridge, Stove, Washer, Dryer, Cvac And Equipment, Garden Shed. All Elfs, Existing Window Blinds, Garage Door Remote. Hot Water Tank Rental. Flex Closing Date.',
+      furnished: '',
+      garage: 'Attached',
+      heating: 'Forced Air',
+      numBathrooms: '2',
+      numBathroomsPlus: null,
+      numBedrooms: '3',
+      numBedroomsPlus: '',
+      numFireplaces: 'N',
+      numGarageSpaces: '1.0',
+      numParkingSpaces: '3.0',
+      numRooms: '7',
+      numRoomsPlus: '',
+      patio: null,
+      propertyType: 'Detached',
+      sqft: '',
+      style: '2-Storey',
+      swimmingPool: 'None',
+      virtualTourUrl: 'https://www.youtube.com/watch?v=m8znT6g9vDk&feature=youtu.be',
+      yearBuilt: '',
+      landAccessType: null,
+      landSewer: null,
+      viewType: null,
+      zoningDescription: null,
+      analyticsClick: null,
+      analyticsView: null,
+      moreInformationLink: null,
+      alternateURLVideoLink: null,
+      flooringType: null,
+      foundationType: null,
+      landscapeFeatures: null,
+      fireProtection: null,
+      roofMaterial: null,
+      farmType: null,
+      zoningType: null,
+      businessType: null,
+      businessSubType: null,
+      landDisposition: null,
+      storageType: null,
+      constructionStyleSplitLevel: null,
+      constructionStatus: null,
+      loadingType: null,
+      ceilingType: null,
+      liveStreamEventURL: null,
+      energuideRating: null,
+      amperage: null
+    },
+    daysOnMarket: '1',
+    occupancy: 'Flex/Tba',
+    updatedOn: '2021-01-26T17:47:59.000Z',
+    condominium: {
+      ammenities: [ null, null, null, null, null, null ],
+      buildingInsurance: null,
+      condoCorp: null,
+      condoCorpNum: null,
+      exposure: null,
+      lockerNumber: null,
+      locker: null,
+      parkingType: null,
+      pets: null,
+      propertyMgr: null,
+      stories: null,
+      fees: {
+        cableInlc: '',
+        heatIncl: '',
+        hydroIncl: '',
+        maintenance: null,
+        parkingIncl: '',
+        taxesIncl: null,
+        waterIncl: ''
+      }
+    },
+    lot: {
+      acres: '',
+      depth: '127.65',
+      irregular: '',
+      legalDescription: 'Pl 43M642 Lt 97 Pcl 97-1',
+      measurement: 'Feet',
+      width: '31.99'
+    },
+    nearby: {
+      ammenities: [
+        'Cul De Sac',
+        'Fenced Yard',
+        'Hospital',
+        'Place Of Worship',
+        'Public Transit',
+        'School'
+      ]
+    },
+    office: { brokerageName: 'REAL ONE REALTY INC., BROKERAGE' },
+    openHouse: {
+      '1': { date: '', endTime: '', startTime: '' },
+      '2': { date: '', endTime: '', startTime: '' },
+      '3': { date: '', endTime: '', startTime: '' }
+    },
+    rooms: {
+      '1': {
+        description: 'Living',
+        features: 'Hardwood Floor',
+        features2: 'Bay Window',
+        features3: 'Combined W/Dining',
+        length: '4.01',
+        width: '3.81'
+      },
+      '2': {
+        description: 'Dining',
+        features: 'Hardwood Floor',
+        features2: 'O/Looks Backyard',
+        features3: 'Combined W/Living',
+        length: '4.01',
+        width: '3.81'
+      },
+      '3': {
+        description: 'Kitchen',
+        features: 'Eat-In Kitchen',
+        features2: 'B/I Dishwasher',
+        features3: 'W/O To Deck',
+        length: '4.00',
+        width: '3.03'
+      },
+      '4': {
+        description: 'Master',
+        features: 'Laminate',
+        features2: 'Semi Ensuite',
+        features3: 'Large Closet',
+        length: '5.64',
+        width: '3.04'
+      },
+      '5': {
+        description: '2nd Br',
+        features: 'Laminate',
+        features2: 'Large Window',
+        features3: 'Large Closet',
+        length: '3.41',
+        width: '2.74'
+      },
+      '6': {
+        description: '3rd Br',
+        features: 'Laminate',
+        features2: 'Large Window',
+        features3: 'Large Closet',
+        length: '3.41',
+        width: '2.96'
+      },
+      '7': {
+        description: 'Rec',
+        features: 'Laminate',
+        features2: '',
+        features3: '',
+        length: '7.08',
+        width: '2.80'
+      },
+      '8': {
+        description: 'Office',
+        features: 'Laminate',
+        features2: '',
+        features3: '',
+        length: '',
+        width: ''
+      },
+      '9': {
+        description: '',
+        features: '',
+        features2: '',
+        features3: '',
+        length: '',
+        width: ''
+      },
+      '10': {
+        description: '',
+        features: '',
+        features2: '',
+        features3: '',
+        length: '',
+        width: ''
+      },
+      '11': {
+        description: '',
+        features: '',
+        features2: '',
+        features3: '',
+        length: '',
+        width: ''
+      },
+      '12': {
+        description: '',
+        features: '',
+        features2: '',
+        features3: '',
+        length: '',
+        width: ''
+      }
+    },
+    taxes: { annualAmount: '4456.41', assessmentYear: '2020' },
+    timestamps: {
+      idxUpdated: null,
+      listingUpdated: '2021-01-26T17:47:59.000Z',
+      photosUpdated: '2021-01-24T21:07:11.000Z',
+      conditionalExpiryDate: null,
+      terminatedDate: null,
+      suspendedDate: null,
+      listingEntryDate: '2021-01-24T00:00:00.000Z',
+      closedDate: '2021-03-16T00:00:00.000Z',
+      unavailableDate: '2021-01-25T00:00:00.000Z',
+      expiryDate: '2021-04-24T00:00:00.000Z',
+      extensionEntryDate: null
+    },
+    agents: []
+  }
